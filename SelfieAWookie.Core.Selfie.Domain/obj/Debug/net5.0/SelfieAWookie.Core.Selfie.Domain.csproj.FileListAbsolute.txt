@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\SelfieAWookie.API\SelfieAWookie.Core.Selfie.Domain\bin\Debug\net5.0\SelfieAWookie.Core.Selfie.Domain.deps.json
+C:\Users\DELL\source\repos\SelfieAWookie.API\SelfieAWookie.Core.Selfie.Domain\bin\Debug\net5.0\SelfieAWookie.Core.Selfie.Domain.dll
+C:\Users\DELL\source\repos\SelfieAWookie.API\SelfieAWookie.Core.Selfie.Domain\bin\Debug\net5.0\SelfieAWookie.Core.Selfie.Domain.pdb
+C:\Users\DELL\source\repos\SelfieAWookie.API\SelfieAWookie.Core.Selfie.Domain\obj\Debug\net5.0\SelfieAWookie.Core.Selfie.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\SelfieAWookie.API\SelfieAWookie.Core.Selfie.Domain\obj\Debug\net5.0\SelfieAWookie.Core.Selfie.Domain.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\SelfieAWookie.API\SelfieAWookie.Core.Selfie.Domain\obj\Debug\net5.0\SelfieAWookie.Core.Selfie.Domain.AssemblyInfo.cs
+C:\Users\DELL\source\repos\SelfieAWookie.API\SelfieAWookie.Core.Selfie.Domain\obj\Debug\net5.0\SelfieAWookie.Core.Selfie.Domain.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\SelfieAWookie.API\SelfieAWookie.Core.Selfie.Domain\obj\Debug\net5.0\SelfieAWookie.Core.Selfie.Domain.dll
+C:\Users\DELL\source\repos\SelfieAWookie.API\SelfieAWookie.Core.Selfie.Domain\obj\Debug\net5.0\refint\SelfieAWookie.Core.Selfie.Domain.dll
+C:\Users\DELL\source\repos\SelfieAWookie.API\SelfieAWookie.Core.Selfie.Domain\obj\Debug\net5.0\SelfieAWookie.Core.Selfie.Domain.pdb
+C:\Users\DELL\source\repos\SelfieAWookie.API\SelfieAWookie.Core.Selfie.Domain\obj\Debug\net5.0\ref\SelfieAWookie.Core.Selfie.Domain.dll
