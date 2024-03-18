@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\source\\repos\\SelfieAWookie.API\\SelfieAWookie.Core.Selfie.Infrastructure\\SelfieAWookie.Core.Selfie.Infrastructure.csproj": {}
+    "C:\\Users\\manzara.gbane\\Desktop\\SelfieAWookie.API\\SelfieAWookie.Core.Selfie.Infrastructure\\SelfieAWookie.Core.Selfie.Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\source\\repos\\SelfieAWookie.API\\SelfieAWookie.Core.Selfie.Domain\\SelfieAWookie.Core.Selfie.Domain.csproj": {
+    "C:\\Users\\manzara.gbane\\Desktop\\SelfieAWookie.API\\SelfieAWookie.Core.Selfie.Domain\\SelfieAWookie.Core.Selfie.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\SelfieAWookie.API\\SelfieAWookie.Core.Selfie.Domain\\SelfieAWookie.Core.Selfie.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\manzara.gbane\\Desktop\\SelfieAWookie.API\\SelfieAWookie.Core.Selfie.Domain\\SelfieAWookie.Core.Selfie.Domain.csproj",
         "projectName": "SelfieAWookie.Core.Selfie.Domain",
-        "projectPath": "C:\\Users\\DELL\\source\\repos\\SelfieAWookie.API\\SelfieAWookie.Core.Selfie.Domain\\SelfieAWookie.Core.Selfie.Domain.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\source\\repos\\SelfieAWookie.API\\SelfieAWookie.Core.Selfie.Domain\\obj\\",
+        "projectPath": "C:\\Users\\manzara.gbane\\Desktop\\SelfieAWookie.API\\SelfieAWookie.Core.Selfie.Domain\\SelfieAWookie.Core.Selfie.Domain.csproj",
+        "packagesPath": "C:\\Users\\manzara.gbane\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\manzara.gbane\\Desktop\\SelfieAWookie.API\\SelfieAWookie.Core.Selfie.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\manzara.gbane\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,6 +34,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -55,21 +60,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\DELL\\source\\repos\\SelfieAWookie.API\\SelfieAWookie.Core.Selfie.Infrastructure\\SelfieAWookie.Core.Selfie.Infrastructure.csproj": {
+    "C:\\Users\\manzara.gbane\\Desktop\\SelfieAWookie.API\\SelfieAWookie.Core.Selfie.Infrastructure\\SelfieAWookie.Core.Selfie.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\SelfieAWookie.API\\SelfieAWookie.Core.Selfie.Infrastructure\\SelfieAWookie.Core.Selfie.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\manzara.gbane\\Desktop\\SelfieAWookie.API\\SelfieAWookie.Core.Selfie.Infrastructure\\SelfieAWookie.Core.Selfie.Infrastructure.csproj",
         "projectName": "SelfieAWookie.Core.Selfie.Infrastructure",
-        "projectPath": "C:\\Users\\DELL\\source\\repos\\SelfieAWookie.API\\SelfieAWookie.Core.Selfie.Infrastructure\\SelfieAWookie.Core.Selfie.Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\source\\repos\\SelfieAWookie.API\\SelfieAWookie.Core.Selfie.Infrastructure\\obj\\",
+        "projectPath": "C:\\Users\\manzara.gbane\\Desktop\\SelfieAWookie.API\\SelfieAWookie.Core.Selfie.Infrastructure\\SelfieAWookie.Core.Selfie.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\manzara.gbane\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\manzara.gbane\\Desktop\\SelfieAWookie.API\\SelfieAWookie.Core.Selfie.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\manzara.gbane\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -83,8 +88,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\DELL\\source\\repos\\SelfieAWookie.API\\SelfieAWookie.Core.Selfie.Domain\\SelfieAWookie.Core.Selfie.Domain.csproj": {
-                "projectPath": "C:\\Users\\DELL\\source\\repos\\SelfieAWookie.API\\SelfieAWookie.Core.Selfie.Domain\\SelfieAWookie.Core.Selfie.Domain.csproj"
+              "C:\\Users\\manzara.gbane\\Desktop\\SelfieAWookie.API\\SelfieAWookie.Core.Selfie.Domain\\SelfieAWookie.Core.Selfie.Domain.csproj": {
+                "projectPath": "C:\\Users\\manzara.gbane\\Desktop\\SelfieAWookie.API\\SelfieAWookie.Core.Selfie.Domain\\SelfieAWookie.Core.Selfie.Domain.csproj"
               }
             }
           }
@@ -93,6 +98,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -130,7 +140,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

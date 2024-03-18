@@ -8954,19 +8954,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\DELL\\.nuget\\packages\\": {}
+    "C:\\Users\\manzara.gbane\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DELL\\source\\repos\\SelfieAWookie.API\\TestWebApi\\TestWebApi.csproj",
+      "projectUniqueName": "C:\\Users\\manzara.gbane\\Desktop\\SelfieAWookie.API\\TestWebApi\\TestWebApi.csproj",
       "projectName": "TestWebApi",
-      "projectPath": "C:\\Users\\DELL\\source\\repos\\SelfieAWookie.API\\TestWebApi\\TestWebApi.csproj",
-      "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DELL\\source\\repos\\SelfieAWookie.API\\TestWebApi\\obj\\",
+      "projectPath": "C:\\Users\\manzara.gbane\\Desktop\\SelfieAWookie.API\\TestWebApi\\TestWebApi.csproj",
+      "packagesPath": "C:\\Users\\manzara.gbane\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\manzara.gbane\\Desktop\\SelfieAWookie.API\\TestWebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\manzara.gbane\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8980,8 +8980,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\DELL\\source\\repos\\SelfieAWookie.API\\SelfieAWookie.API\\SelfieAWookie.API.csproj": {
-              "projectPath": "C:\\Users\\DELL\\source\\repos\\SelfieAWookie.API\\SelfieAWookie.API\\SelfieAWookie.API.csproj"
+            "C:\\Users\\manzara.gbane\\Desktop\\SelfieAWookie.API\\SelfieAWookie.API\\SelfieAWookie.API.csproj": {
+              "projectPath": "C:\\Users\\manzara.gbane\\Desktop\\SelfieAWookie.API\\SelfieAWookie.API\\SelfieAWookie.API.csproj"
             }
           }
         }
@@ -8990,6 +8990,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -9033,7 +9038,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
