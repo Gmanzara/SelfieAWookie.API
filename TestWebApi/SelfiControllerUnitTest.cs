@@ -22,8 +22,8 @@ namespace TestWebApi
             Assert.IsType<OkObjectResult>(result);
 
             ObjectResult okresult =  result as ObjectResult;    
-            Assert.NotNull (okresult.);
-            //Assert.True(result.GetEnumerator().MoveNext());
+            Assert.NotNull (okresult.Value);
+
         }
     }
 }
